@@ -97,7 +97,7 @@
 
 # URL for Testing
 
-- Development: http://localhost:5000/api/v1
+- Development: http://localhost:5000/
 - Production: https://b6a2-roan.vercel.app/
 
 ## 🌐 API Endpoints (Method & Endpoint Only)
